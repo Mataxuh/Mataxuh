@@ -118,6 +118,6 @@ Current status: **Open to opportunities / hireable** ✅
 
 Badges:
 
-- [![LinkedIn]([https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/mr-matazu](https://www.linkedin.com/in/mr-matazu-web-url/)
+- [![LinkedIn]([https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/mr-matazu].
 - [![GitHub followers](https://img.shields.io/github/followers/Mataxuh?label=Follow&style=social)](https://github.com/Mataxuh)
 
