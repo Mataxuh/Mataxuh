@@ -1,5 +1,3 @@
-## Hi there! 👋
-
 # Hi there! 👋
 
 I'm **Muhammad Mataxuh** - a 3rd year IT student at **UniSiraj** with an extreme passion for technology. 🚀
@@ -8,7 +6,6 @@ Role: Aspiring IT Pro - Full‑Stack & Mobile Developer
 
 Tagline: Building practical apps and learning new tech every day - from campus systems to mobile quizzes. 💡
 
-## About Me
 
 ## About Me
 
@@ -33,7 +30,7 @@ Learning / goals:
 
 js,kotlin,androidstudio,nodejs,html,css,git,github,vercel,vscode
 
-## Top Projects
+
 
 ## Top Projects
 
@@ -57,7 +54,6 @@ js,kotlin,androidstudio,nodejs,html,css,git,github,vercel,vscode
 
 > Each project includes active commits and is maintained by me. Contributions, issues, and pull requests are welcome. 🙌
 
-## GitHub Stats
 
 ## GitHub Stats 📊
 
@@ -76,7 +72,6 @@ Badges:
 - ![Followers](https://img.shields.io/badge/Followers-5-blue)
 - ![Following](https://img.shields.io/badge/Following-7-lightgrey)
 
-## Recent Activity
 
 ## Recent Activity 🔔
 
@@ -95,7 +90,6 @@ Here are some recent GitHub events from my account (latest first):
 
 (Shows active development across web and mobile projects.)
 
-## Latest Blog Posts
 
 ## Latest Blog Posts ✍️
 
@@ -103,7 +97,6 @@ No public blog posts were found on my profile. If you publish articles or tutori
 
 LinkedIn: https://www.linkedin.com/in/mr-matazu
 
-## Connect with Me
 
 ## Connect with Me 🔗
 
