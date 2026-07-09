@@ -4,7 +4,7 @@
 
 I'm **Muhammad Mataxuh** — a 3rd year IT student at **UniSiraj** with an extreme passion for technology. 🚀
 
-Role: Aspiring Full‑Stack & Mobile Developer
+Role: Aspiring IT Pro - Full‑Stack & Mobile Developer
 
 Tagline: Building practical apps and learning new tech every day — from campus systems to mobile quizzes. 💡
 
@@ -12,7 +12,7 @@ Tagline: Building practical apps and learning new tech every day — from campus
 
 ## About Me
 
-I'm a 3rd year IT student based in **Perlis, Malaysia** currently affiliated with **UniSiraj**. I started my IT journey 3 years ago and enjoy turning ideas into working projects — both solo and in teams. I contribute to web and mobile projects and focus on delivering user-friendly, maintainable software.
+I'm a 3rd year IT student based in **Perlis, Malaysia** currently at **UniSiraj**. I started my IT journey 3 years ago and enjoy turning ideas into working projects, both solo and in teams. I contribute to web and mobile projects and focus on delivering user-friendly, maintainable software.
 
 - 📍 Location: Perlis, Malaysia
 - 🏢 Company / School: UniSiraj
@@ -21,12 +21,12 @@ I'm a 3rd year IT student based in **Perlis, Malaysia** currently affiliated wit
 
 Currently working on:
 
-- Unisiraj BPK Campus Facility — a complaints management system (web) deployed on Vercel
-- XuhQuest — a gamified Islamic knowledge quiz app built with Kotlin for Android
+- Unisiraj BPK Campus Facility - a complaints management system (web) deployed on Vercel
+- XuhQuest - a gamified Islamic knowledge quiz app built with Kotlin for Android
 
 Learning / goals:
 
-- Deepening Kotlin & Android skills
+- Deepening IT- Kotlin & Android skills
 - Expanding full‑stack JavaScript knowledge (deployment, best practices)
 
 ## Skills & Technologies
