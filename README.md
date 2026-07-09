@@ -6,13 +6,13 @@ I'm **Muhammad Mataxuh** — a 3rd year IT student at **UniSiraj** with an extre
 
 Role: Aspiring IT Pro - Full‑Stack & Mobile Developer
 
-Tagline: Building practical apps and learning new tech every day — from campus systems to mobile quizzes. 💡
+Tagline: Building practical apps and learning new tech every day - from campus systems to mobile quizzes. 💡
 
 ## About Me
 
 ## About Me
 
-I'm a 3rd year IT student based in **Perlis, Malaysia** currently at **UniSiraj**. I started my IT journey 3 years ago and enjoy turning ideas into working projects, both solo and in teams. I contribute to web and mobile projects and focus on delivering user-friendly, maintainable software.
+I'm a 3rd year IT student based in **Perlis, Malaysia** currently pursing my degree at **UniSiraj**. I started my IT journey 3 years ago and enjoy turning ideas into working projects — both solo and in teams. I contribute to web and mobile projects and focus on delivering user-friendly, maintainable software.
 
 - 📍 Location: Perlis, Malaysia
 - 🏢 Company / School: UniSiraj
@@ -21,12 +21,12 @@ I'm a 3rd year IT student based in **Perlis, Malaysia** currently at **UniSiraj*
 
 Currently working on:
 
-- Unisiraj BPK Campus Facility - a complaints management system (web) deployed on Vercel
-- XuhQuest - a gamified Islamic knowledge quiz app built with Kotlin for Android
+- Unisiraj BPK Campus Facility — a complaints management system (web) deployed on Vercel
+- XuhQuest — a gamified Islamic knowledge quiz app built with Kotlin for Android
 
 Learning / goals:
 
-- Deepening IT- Kotlin & Android skills
+- Deepening Kotlin & Android skills
 - Expanding full‑stack JavaScript knowledge (deployment, best practices)
 
 ## Skills & Technologies
@@ -108,8 +108,8 @@ LinkedIn: https://www.linkedin.com/in/mr-matazu
 ## Connect with Me 🔗
 
 - 🐙 GitHub: https://github.com/Mataxuh
-- 🔗 LinkedIn: (https://www.linkedin.com/in/mr-matazu-web-url/)
-- 🌐 Website: [.......]
+- 🔗 LinkedIn: https://www.linkedin.com/in/mr-matazu
+- 🌐 Website: (none listed)
 - ✉️ Email: (not publicly listed)
 
 I'm open to collaboration, internships, and freelance opportunities — feel free to reach out on LinkedIn or via GitHub.
@@ -118,6 +118,6 @@ Current status: **Open to opportunities / hireable** ✅
 
 Badges:
 
-- [![LinkedIn]([https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/mr-matazu].
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/mr-matazu)
 - [![GitHub followers](https://img.shields.io/github/followers/Mataxuh?label=Follow&style=social)](https://github.com/Mataxuh)
 
