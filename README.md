@@ -2,7 +2,7 @@
 
 # Hi there! 👋
 
-I'm **Muhammad Mataxuh** — a 3rd year IT student at **UniSiraj** with an extreme passion for technology. 🚀
+I'm **Muhammad Mataxuh** - a 3rd year IT student at **UniSiraj** with an extreme passion for technology. 🚀
 
 Role: Aspiring IT Pro - Full‑Stack & Mobile Developer
 
