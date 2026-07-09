@@ -107,7 +107,7 @@ LinkedIn: https://www.linkedin.com/in/mr-matazu
 
 ## Connect with Me 🔗
 
-- 🐙 GitHub: https://github.com/Mataxuh
+- 🐙 GitHub: [https://github.com/Mataxuh](https://www.linkedin.com/in/mr-matazu-web-url/)
 - 🔗 LinkedIn: https://www.linkedin.com/in/mr-matazu
 - 🌐 Website: (none listed)
 - ✉️ Email: (not publicly listed)
